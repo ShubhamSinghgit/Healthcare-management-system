@@ -20,3 +20,5 @@ Navigate to the project directory in your command prompt or terminal and execute
 `streamlit run hims_app.py`
 
 This command will automatically open the application in a new tab in your default browser . No internet connection is required to use this application.
+
+Password : 1234
